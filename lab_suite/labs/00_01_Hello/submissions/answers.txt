@@ -1,5 +1,10 @@
 Frage 1: Wie schwierig war es für dich (Skala 1-5; 1 = sehr einfach  5 = sehr schwierig), das Git repo zu installieren?
+<<<<<<< HEAD
 1
+=======
+
+2
+>>>>>>> upstream/main
 
 Frage 2: Welchen Computertyp verwendest du hauptsächlich?
 
@@ -9,4 +14,9 @@ c) Tablet (Android)
 d) iPad (iPadOS)
 e) Sonstiges: _______
 
+<<<<<<< HEAD
 a(Windows)
+=======
+a) Lenovo
+d) iPad
+>>>>>>> upstream/main
