@@ -22,7 +22,7 @@ Nach dem Ausführen von `entropy1.py` mit eigenem Text in `sampletext.txt`:
 Seltene Zeichen kommen nur einmal vor und haben eine hohe Einzelentropie, beeinflussen aber den Durchschnitt kaum. Insgesamt zeigt der Text eine ungleiche Zeichenverteilung und Redundanz, was für natürlichen Text und Code typisch ist.
 
 ---
-
+.
 ## Konsolenausgabe
 
 ```
